@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+</head>
+
+<body>
+  <div id="Bio"> 
+  <h1>About Me</h1>
+  <h2>Bio</h2>
+  <p>Melissa Quarles is a native of Hendersonville, TN. She currently resides in Tallahasse where she is a graduate student at Florida State University. She has just recieved her MM in Musicology and will soon begin working on an MS in Information. She is a musician, artist, writer, and avid book lover.</p>  
+  </div> 
+  
+  <div id="Contact"> 
+  <h2>Contact</h2>
+  <p>email: mnq16@my.fsu.edu<br>
+    <a href="https://www.facebook.com/melissa.hill.1460">Facebook</a></p> 
+  </div>
+  
+  
+</body> 
+</html> 
